@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/1.jpg'>
+    <box top='24' left='20' width='971' height='1351'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/10.jpg'>
+    <box top='70' left='52' width='167' height='201'/>
+    <box top='52' left='246' width='191' height='205'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/11.jpg'>
+    <box top='59' left='68' width='45' height='56'/>
+    <box top='126' left='45' width='49' height='67'/>
+    <box top='202' left='24' width='53' height='79'/>
+    <box top='198' left='98' width='53' height='87'/>
+    <box top='192' left='169' width='57' height='93'/>
+    <box top='195' left='248' width='65' height='86'/>
+    <box top='198' left='318' width='70' height='86'/>
+    <box top='200' left='387' width='77' height='84'/>
+    <box top='125' left='376' width='63' height='60'/>
+    <box top='122' left='310' width='60' height='64'/>
+    <box top='56' left='370' width='50' height='56'/>
+    <box top='56' left='302' width='58' height='58'/>
+    <box top='58' left='245' width='54' height='58'/>
+    <box top='121' left='250' width='57' height='68'/>
+    <box top='119' left='175' width='53' height='71'/>
+    <box top='123' left='112' width='50' height='68'/>
+    <box top='55' left='118' width='53' height='62'/>
+    <box top='57' left='181' width='44' height='58'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/12.jpg'>
+    <box top='656' left='1020' width='241' height='335'/>
+    <box top='324' left='1016' width='223' height='301'/>
+    <box top='48' left='1006' width='215' height='253'/>
+    <box top='62' left='1272' width='193' height='241'/>
+    <box top='60' left='1500' width='231' height='259'/>
+    <box top='340' left='1306' width='197' height='279'/>
+    <box top='342' left='1544' width='243' height='279'/>
+    <box top='654' left='1300' width='291' height='339'/>
+    <box top='652' left='612' width='271' height='357'/>
+    <box top='666' left='364' width='233' height='335'/>
+    <box top='666' left='110' width='203' height='331'/>
+    <box top='342' left='120' width='251' height='293'/>
+    <box top='330' left='398' width='223' height='305'/>
+    <box top='306' left='654' width='265' height='325'/>
+    <box top='34' left='674' width='223' height='249'/>
+    <box top='56' left='450' width='201' height='261'/>
+    <box top='62' left='184' width='229' height='271'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/13.jpg'>
+    <box top='46' left='100' width='86' height='118'/>
+    <box top='47' left='204' width='86' height='118'/>
+    <box top='51' left='305' width='88' height='116'/>
+    <box top='181' left='303' width='76' height='108'/>
+    <box top='181' left='205' width='81' height='107'/>
+    <box top='181' left='109' width='77' height='108'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/14.jpg'>
+    <box top='-1' left='1' width='234' height='331'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/15.jpg'>
+    <box top='48' left='0' width='92' height='127'/>
+    <box top='44' left='92' width='96' height='128'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/16.jpg'>
+    <box top='96' left='48' width='625' height='791'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/17.jpg'>
+    <box top='16' left='108' width='337' height='569'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/18.jpg'>
+    <box top='18' left='237' width='230' height='328'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/2.jpg'>
+    <box top='-14' left='8' width='479' height='697'/>
+    <box top='4' left='500' width='481' height='681'/>
+    <box top='-18' left='990' width='489' height='695'/>
+    <box top='694' left='998' width='483' height='685'/>
+    <box top='694' left='490' width='497' height='681'/>
+    <box top='692' left='6' width='473' height='683'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/2.png'>
+    <box top='-7' left='-27' width='289' height='372'/>
+    <box top='4' left='272' width='261' height='366'/>
+    <box top='-1' left='540' width='257' height='370'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/20.jpg'>
+    <box top='25' left='52' width='47' height='68'/>
+    <box top='26' left='104' width='47' height='68'/>
+    <box top='97' left='103' width='47' height='70'/>
+    <box top='96' left='47' width='51' height='70'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/21.jpg'>
+    <box top='1' left='3' width='233' height='320'/>
+    <box top='2' left='253' width='232' height='320'/>
+    <box top='1' left='503' width='230' height='317'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/22.jpg'>
+    <box top='244' left='28' width='58' height='111'/>
+    <box top='246' left='100' width='97' height='110'/>
+    <box top='246' left='204' width='78' height='117'/>
+    <box top='244' left='287' width='78' height='116'/>
+    <box top='161' left='528' width='72' height='90'/>
+    <box top='158' left='430' width='86' height='87'/>
+    <box top='155' left='365' width='66' height='93'/>
+    <box top='153' left='288' width='69' height='91'/>
+    <box top='150' left='218' width='68' height='91'/>
+    <box top='152' left='131' width='81' height='88'/>
+    <box top='151' left='61' width='70' height='89'/>
+    <box top='70' left='66' width='81' height='73'/>
+    <box top='73' left='146' width='76' height='77'/>
+    <box top='73' left='224' width='66' height='75'/>
+    <box top='77' left='299' width='59' height='68'/>
+    <box top='77' left='369' width='52' height='73'/>
+    <box top='72' left='435' width='61' height='75'/>
+    <box top='78' left='506' width='87' height='77'/>
+    <box top='4' left='505' width='60' height='61'/>
+    <box top='4' left='426' width='71' height='63'/>
+    <box top='4' left='369' width='60' height='63'/>
+    <box top='2' left='299' width='60' height='69'/>
+    <box top='6' left='234' width='62' height='61'/>
+    <box top='0' left='162' width='62' height='68'/>
+    <box top='1' left='79' width='78' height='64'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/23.jpg'>
+    <box top='333' left='655' width='208' height='241'/>
+    <box top='338' left='435' width='177' height='221'/>
+    <box top='309' left='220' width='184' height='221'/>
+    <box top='313' left='1' width='186' height='232'/>
+    <box top='91' left='31' width='189' height='174'/>
+    <box top='99' left='260' width='141' height='180'/>
+    <box top='111' left='450' width='166' height='183'/>
+    <box top='119' left='634' width='187' height='186'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/24.jpg'>
+    <box top='13' left='15' width='193' height='264'/>
+    <box top='11' left='222' width='183' height='266'/>
+    <box top='13' left='416' width='187' height='260'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/26.jpg'>
+    <box top='212' left='1' width='129' height='122'/>
+    <box top='213' left='132' width='112' height='123'/>
+    <box top='215' left='252' width='104' height='115'/>
+    <box top='212' left='373' width='99' height='113'/>
+    <box top='124' left='339' width='113' height='88'/>
+    <box top='123' left='246' width='98' height='90'/>
+    <box top='116' left='146' width='95' height='92'/>
+    <box top='112' left='49' width='88' height='98'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/27.jpg'>
+    <box top='36' left='2' width='119' height='136'/>
+    <box top='15' left='107' width='92' height='157'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/28.jpg'>
+    <box top='62' left='37' width='122' height='134'/>
+    <box top='57' left='190' width='134' height='132'/>
+    <box top='14' left='142' width='85' height='159'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/3.jpg'>
+    <box top='70' left='626' width='432' height='556'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/30.jpg'>
+    <box top='2' left='6' width='135' height='196'/>
+    <box top='3' left='145' width='134' height='194'/>
+    <box top='202' left='5' width='138' height='191'/>
+    <box top='201' left='146' width='133' height='189'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/31.jpg'>
+    <box top='6' left='91' width='102' height='125'/>
+    <box top='6' left='198' width='98' height='128'/>
+    <box top='136' left='199' width='106' height='149'/>
+    <box top='135' left='78' width='116' height='155'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/32.jpg'>
+    <box top='90' left='96' width='1049' height='1417'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/33.jpg'>
+    <box top='86' left='20' width='162' height='223'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/34.jpg'>
+    <box top='57' left='35' width='106' height='160'/>
+    <box top='55' left='148' width='117' height='162'/>
+    <box top='223' left='147' width='109' height='154'/>
+    <box top='222' left='26' width='114' height='151'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/35.jpg'>
+    <box top='54' left='12' width='207' height='293'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/36.jpg'>
+    <box top='42' left='-22' width='247' height='311'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/37.jpg'>
+    <box top='30' left='100' width='189' height='226'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/38.jpg'>
+    <box top='90' left='37' width='158' height='220'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/39.jpg'>
+    <box top='19' left='4' width='236' height='262'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/4.jpg'>
+    <box top='6' left='7' width='309' height='436'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/40.jpg'>
+    <box top='9' left='5' width='170' height='205'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/41.jpg'>
+    <box top='17' left='127' width='154' height='193'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/42.jpg'>
+    <box top='22' left='-8' width='139' height='193'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/43.jpg'>
+    <box top='25' left='7' width='82' height='110'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/44.jpg'>
+    <box top='31' left='15' width='275' height='383'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/45.jpg'>
+    <box top='46' left='126' width='129' height='181'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/46.jpg'>
+    <box top='102' left='40' width='189' height='267'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/47.jpg'>
+    <box top='64' left='54' width='195' height='289'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/48.jpg'>
+    <box top='65' left='47' width='189' height='242'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/49.jpg'>
+    <box top='62' left='6' width='199' height='283'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/51.jpg'>
+    <box top='1' left='1' width='198' height='279'/>
+    <box top='1' left='196' width='205' height='283'/>
+    <box top='6' left='407' width='194' height='277'/>
+    <box top='292' left='409' width='201' height='279'/>
+    <box top='294' left='208' width='201' height='277'/>
+    <box top='297' left='6' width='200' height='276'/>
+    <box top='583' left='14' width='201' height='281'/>
+    <box top='579' left='216' width='201' height='276'/>
+    <box top='584' left='422' width='193' height='280'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/52.jpg'>
+    <box top='1' left='287' width='301' height='409'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/6.jpg'>
+    <box top='60' left='622' width='785' height='1009'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/7.jpg'>
+    <box top='18' left='169' width='166' height='226'/>
+    <box top='10' left='345' width='160' height='230'/>
+    <box top='13' left='509' width='176' height='223'/>
+    <box top='245' left='535' width='172' height='229'/>
+    <box top='247' left='342' width='169' height='246'/>
+    <box top='253' left='156' width='170' height='244'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/8.jpg'>
+    <box top='36' left='75' width='100' height='140'/>
+  </image>
+  <image file='/home/abbud/Documents/Projeto_Sexta/Training/9.jpg'>
+    <box top='8' left='116' width='244' height='339'/>
+  </image>
+</images>
+</dataset>
